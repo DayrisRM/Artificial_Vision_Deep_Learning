@@ -1,0 +1,6 @@
+train: ../Roi_Dataset/images/train/ 
+val:  ../Roi_Dataset/images/val/
+test: ../Roi_Dataset/images/test/
+
+nc: 1
+names: ['bb']
